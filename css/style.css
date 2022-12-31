@@ -356,26 +356,26 @@ h6 {
   transition: 0.4s;
 }
 .hero-area .hero-icons li:first-child {
-  left: 96px;
-  top: -30px;
+  left: 1px;
+  top: -70px;
   background: #21759b;
   transform: rotate(14deg);
 }
 .hero-area .hero-icons li:nth-child(2) {
   right: -24px;
-  top: 60px;
+  top: 70px;
   background: #f55247;
   transform: rotate(-8deg);
 }
 .hero-area .hero-icons li:nth-child(3) {
-  left: 96px;
+  left: 1px;
   bottom: 96px;
   background: #7ac143;
   transform: rotate(-7deg);
 }
 .hero-area .hero-icons li:nth-child(4) {
   right: -24px;
-  bottom: 36px;
+  bottom: -40px;
   background: #0077c0;
   transform: rotate(12deg);
 }
