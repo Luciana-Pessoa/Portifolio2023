@@ -513,7 +513,7 @@ h6 {
   border-radius: 4px;
 }
 .about-section .about-img-2 {
-  position: absolute;
+  position: center;
   left: 0;
   bottom: -200px;
 }
